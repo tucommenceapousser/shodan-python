@@ -1,0 +1,89 @@
+52.8.236.134	8021	ec2-52-8-236-134.us-west-1.compute.amazonaws.com	Content-Type: auth/request\n\n	
+117.176.119.43	8021		Content-Type: auth/request\n\n	
+5.161.187.69	8021	static.69.187.161.5.clients.your-server.de	Content-Type: auth/request\n\n	
+38.114.114.158	8021	158-114-114-38.clients.gthost.com	Content-Type: auth/request\n\n	
+115.29.142.247	8021		Content-Type: auth/request\n\n	
+120.79.16.143	8021		Content-Type: auth/request\n\n	
+120.55.54.174	8021		Content-Type: auth/request\n\n	
+114.116.45.95	8021	ecs-114-116-45-95.compute.hwclouds-dns.com	Content-Type: auth/request\n\n	
+58.57.46.102	8021		Content-Type: auth/request\n\n	
+13.59.146.178	8021	ec2-13-59-146-178.us-east-2.compute.amazonaws.com	Content-Type: auth/request\n\n	
+47.103.143.108	8021		Content-Type: auth/request\n\n	
+39.108.238.233	8021		Content-Type: auth/request\n\n	
+15.206.48.25	8021	ec2-15-206-48-25.ap-south-1.compute.amazonaws.com	Content-Type: auth/request\n\n	
+5.196.105.232	8021	ip232.ip-5-196-105.eu	Content-Type: auth/request\n\n	
+92.60.183.177	8021		Content-Type: auth/request\n\n	
+193.105.236.45	8021		Content-Type: auth/request\n\n	
+5.161.76.231	8021	static.231.76.161.5.clients.your-server.de	Content-Type: auth/request\n\n	
+47.114.43.202	8021		Content-Type: auth/request\n\n	
+121.40.77.160	8021		Content-Type: auth/request\n\n	
+8.136.17.242	8021		Content-Type: auth/request\n\n	
+39.106.142.189	8021		Content-Type: auth/request\n\nContent-Type: command/reply\nReply-Text: -ERR command not found\n\n	
+3.68.27.46	8021	ec2-3-68-27-46.eu-central-1.compute.amazonaws.com	Content-Type: auth/request\n\n	
+101.37.246.209	8021		Content-Type: auth/request\n\n	
+78.47.56.131	8021	pbx1.petmec.eu	Content-Type: auth/request\n\n	
+121.37.22.245	8021	ecs-121-37-22-245.compute.hwclouds-dns.com	Content-Type: auth/request\n\n	
+119.60.13.60	8021		Content-Type: auth/request\n\n	
+45.76.247.210	8021	45.76.247.210.vultrusercontent.com	Content-Type: auth/request\n\n	
+47.104.83.38	8021		Content-Type: auth/request\n\n	
+168.119.135.182	8021	fs02.gosip.gr	Content-Type: auth/request\n\n	
+167.99.63.176	8021		Content-Type: auth/request\n\n	
+5.161.120.154	8021	static.154.120.161.5.clients.your-server.de	Content-Type: auth/request\n\n	
+36.134.140.86	8021		Content-Type: auth/request\n\n	
+221.6.80.200	8021		Content-Type: auth/request\n\n	
+8.136.8.45	8021		Content-Type: auth/request\n\n	
+122.186.161.154	8021	nsg-corporate-154.161.186.122.airtel.in	Content-Type: auth/request\n\n	
+114.217.48.38	8021		Content-Type: auth/request\n\n	
+5.161.181.152	8021	static.152.181.161.5.clients.your-server.de	Content-Type: auth/request\n\n	
+125.40.191.157	8021	hn.kd.ny.adsl	Content-Type: auth/request\n\n	
+111.61.107.27	8021		Content-Type: auth/request\n\n	
+135.181.103.126	8021	static.126.103.181.135.clients.your-server.de	Content-Type: auth/request\n\n	
+159.203.35.10	8021	mediaserver-2.freevoice.ca	Content-Type: auth/request\n\n	
+102.220.86.75	8021		Content-Type: auth/request\n\n	
+47.74.218.187	8021		Content-Type: auth/request\n\n	
+138.197.164.187	8021	dot12.onvoip.ca	Content-Type: auth/request\n\n	
+13.57.227.18	8021	ec2-13-57-227-18.us-west-1.compute.amazonaws.com	Content-Type: auth/request\n\n	
+47.108.59.189	8021		Content-Type: auth/request\n\n	
+47.106.99.147	8021		Content-Type: auth/request\n\n	
+54.177.19.4	8021	ec2-54-177-19-4.us-west-1.compute.amazonaws.com	Content-Type: auth/request\n\n	
+112.175.17.200	8021		Content-Type: auth/request\n\n	
+43.228.37.105	8021		Content-Type: auth/request\n\n	
+106.251.239.100	8021		Content-Type: auth/request\n\n	
+18.222.121.224	8021	ec2-18-222-121-224.us-east-2.compute.amazonaws.com	Content-Type: auth/request\n\n	
+39.100.51.17	8021		Content-Type: auth/request\n\n	
+103.177.176.131	8021	ip-177-176-131.milenetwork.co.id	HTTP/1.1 200 OK\r\nDate: Sun, 21 May 2023 12:06:28 GMT\r\nServer: Apache/2.4.29 (Ubuntu)\r\nAccess-Control-Allow-Origin: *\r\nAccess-Control-Allow-Headers: x-token,x-username,x-password, Origin, X-Requested-With, Content-Type, Access-Control-Allow-Credentials, auth-key, Accept, Access-Control-Request-Method, Authorization\r\nAccess-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE\r\nExpires: Thu, 19 Nov 1981 08:52:00 GMT\r\nCache-Control: no-store, no-cache, must-revalidate, no-store, max-age=0, no-cache\r\nPragma: no-cache\r\nSet-Cookie: ufahadgbsf=4mn89dgbgma42l5qpokb6072ethsvii6; expires=Sun, 21-May-2023 14:06:28 GMT; Max-Age=7200; path=/; HttpOnly; SameSite=Lax\r\nVary: Accept-Encoding\r\nTransfer-Encoding: chunked\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n	
+178.128.237.253	8021	server1.v2ncloud.net	Content-Type: auth/request\n\n	
+159.203.51.186	8021		Content-Type: auth/request\n\n	
+8.136.2.237	8021		Content-Type: auth/request\n\n	
+47.107.114.6	8021		Content-Type: auth/request\n\n	
+139.224.113.50	8021		Content-Type: auth/request\n\n	
+172.105.229.235	8021	172-105-229-235.ip.linodeusercontent.com	Content-Type: auth/request\n\n	
+54.167.90.51	8021	ec2-54-167-90-51.compute-1.amazonaws.com	Content-Type: auth/request\n\n	
+15.185.41.214	8021	ec2-15-185-41-214.me-south-1.compute.amazonaws.com	Content-Type: auth/request\n\n	
+61.136.125.229	8021	229.125.136.61.ha.cnc	Content-Type: auth/request\n\n	
+197.248.0.197	8021	197-248-0-197.safaricombusiness.co.ke	Content-Type: auth/request\n\n	
+5.161.87.165	8021	static.165.87.161.5.clients.your-server.de	Content-Type: auth/request\n\n	
+5.79.127.211	8021		Content-Type: auth/request\n\n	
+159.203.15.201	8021	bartlett.voice2net.ca	Content-Type: auth/request\n\n	
+178.32.113.101	8021	ip101.ip-178-32-113.eu	Content-Type: auth/request\n\n	
+39.105.111.202	8021		Content-Type: auth/request\n\n	
+223.84.5.41	8021		Content-Type: auth/request\n\n	
+102.130.127.159	8021		Content-Type: auth/request\n\n	
+88.198.49.164	8021	static.88-198-49-164.clients.your-server.de	Content-Type: auth/request\n\n	
+123.233.253.138	8021		Content-Type: auth/request\n\n	
+5.161.194.102	8021	static.102.194.161.5.clients.your-server.de	Content-Type: auth/request\n\n	
+167.71.189.233	8021		Content-Type: auth/request\n\n	
+39.105.50.7	8021		Content-Type: auth/request\n\n	
+121.14.12.91	8021		Content-Type: auth/request\n\n	
+39.106.9.109	8021		Content-Type: auth/request\n\n	
+122.99.123.243	8021		Content-Type: auth/request\n\n	
+35.91.203.87	8021	ec2-35-91-203-87.us-west-2.compute.amazonaws.com	Content-Type: auth/request\n\n	
+114.116.248.52	8021	ecs-114-116-248-52.compute.hwclouds-dns.com	Content-Type: auth/request\n\n	
+43.254.105.185	8021		Content-Type: auth/request\n\n	
+34.139.250.98	8021	98.250.139.34.bc.googleusercontent.com	Content-Type: auth/request\n\n	
+47.176.114.222	8021		Content-Type: auth/request\n\n	
+123.7.29.144	8021	hn.kd.ny.adsl	Content-Type: auth/request\n\n	
+39.102.203.151	8021		Content-Type: auth/request\n\n	
+66.171.239.41	8021	hosted.at.gigegeo.com	Content-Type: auth/request\n\n	
+47.96.132.144	8021		Content-Type: auth/request\n\n	
+
