@@ -4,3 +4,6 @@ colorama
 requests>=2.2.1
 XlsxWriter
 ipaddress;python_version<='2.7'
+rich
+sys
+os

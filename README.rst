@@ -73,3 +73,4 @@ Documentation
 -------------
 
 Documentation is available at https://shodan.readthedocs.org/ and https://help.shodan.io
+Android debug bridge "features"
